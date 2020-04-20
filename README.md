@@ -1,3 +1,3 @@
 # SevenottersPersistence
 
-Persistence interface for SevenOtters.
+Persistence interface for Seven Otters.
